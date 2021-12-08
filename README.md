@@ -1,4 +1,4 @@
-# Lab#4
+# Lab
 
 ![Area](https://i.imgur.com/e7PHCPE.png)
 
